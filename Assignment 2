@@ -1,3 +1,4 @@
 What did you learn about GitHub? 
-
+I learned that creating a branch on GitHub allows you to edit information without disturbing the main branch. You can then request to merge updates following any changes. I also learned that GitHub will be much more confusing than I originally thought. 
 What's not clear? 
+I got very confused when trying to open a pull request. I ended up creating a branch off my own 'main' repository (I think?), creating Assignment 2 within that branch, and copying over these questions before opening a pull request. I'm not sure if those are the right steps for a pull request though. 
